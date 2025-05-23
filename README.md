@@ -1,7 +1,4 @@
-<h3 align="left">Hello! I'm Suryakant Yadav 👋
-  
-Passionate AWS DevOps Professional from India |
-My journey is fueled by a commitment to designing secure, scalable, and highly reliable cloud infrastructures. I bring a strong foundation in scripting, automation, and configuration, coupled with hands-on expertise across essential AWS services including EC2, S3, Lambda, IAM, and VPC. I am perpetually dedicated to honing my technical acumen, consistently seeking opportunities to innovate within DevOps practices and thrive in dynamic, collaborative ecosystems.</h3>
+<h3 align="left">Hi there, I'm Suryakant Yadav! 👋<br>Passionate AWS DevOps Professional from India <br>I'm an aspiring AWS DevOps professional with a strong passion for designing secure, scalable, and reliable cloud architectures. My expertise lies in scripting, automation, and configuration, with a solid understanding of key AWS services like EC2, S3, Lambda, IAM, and VPC. I am dedicated to continuous learning and leveraging technical knowledge to drive system efficiency and reliability. I'm actively seeking opportunities to contribute to innovative DevOps practices and grow in dynamic, collaborative environments.</h3>
 
 ###
 
@@ -9,10 +6,6 @@ My journey is fueled by a commitment to designing secure, scalable, and highly r
   <img src="https://github-readme-stats.vercel.app/api?username=s21ry1&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=s21ry1&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
 
 ###
 
