@@ -1,11 +1,7 @@
 <h1 align="center">Hi there, I'm Suryakant Yadav! 👋</h1>
-<h3 align="center">AWS DevOps Engineer | Cloud Automation & Security Enthusiast</h3>
+<h3 align="center">AIML Engineer</h3>
 
-<p align="center">
-  Passionate about designing and automating secure, scalable, and reliable cloud infrastructures.
-  My expertise spans CI/CD pipeline development, containerization with Docker & Kubernetes, and leveraging key AWS services.
-  I am dedicated to continuous learning and optimizing system efficiency, actively seeking opportunities to contribute to innovative DevOps practices.
-</p>
+<p align="center">Passionate about building intelligent AI solutions using Machine Learning, Generative AI, and Agentic AI. Skilled in developing scalable, secure, and production-ready AI applications with LLMs, AI frameworks, and cloud technologies. Committed to continuous learning and delivering innovative, real-world AI solutions.</p>
 
 ---
 
